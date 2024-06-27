@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mw_hakkinda</class>
+ <widget class="QMainWindow" name="mw_hakkinda">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1247</width>
+    <height>883</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Çıkış</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qlineargradient(spread:pad, x1:0.537483, y1:0.471, x2:0.114, y2:0.931091, stop:0 rgba(71, 195, 231, 255), stop:1 rgba(255, 255, 255, 255));</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>660</y>
+      <width>331</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>13</pointsize>
+      <weight>75</weight>
+      <italic>true</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Dünyanın Her Tarafı EMLAK!</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>260</y>
+      <width>591</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Emlak programımız,gayrimenkul işlemlerini kolaylaştırmak ve 
+hızlandırmak amacıyla geliştirilmiş kapsamlı çözümdür.Kullanıcı 
+ dostu arayüzü ve güçlü özellikleri ile emlak danışmanlarının, 
+mülk sahiplerinin ve alıcıların ihtiyaçlarını en iyi şekilde karşılar. 
+Emlak ilanlarını yönetmekten müşteri ilişkilerini takip etmeye kadar  
+her adımda size yardımcı olan programımız, işlerinizi daha 
+verimli ve organize bir şekilde yürütmenizi sağlar. Teknolojinin 
+gücünü yanınıza alın, emlak dünyasında bir adım öne geçin!</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>100</y>
+      <width>551</width>
+      <height>581</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../../../../Users/mat76/OneDrive/Resimler/Ekran Görüntüleri/Ekran görüntüsü 2024-06-02 154841.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>110</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="palette">
+     <palette>
+      <active>
+       <colorrole role="Button">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+       <colorrole role="Base">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+       <colorrole role="Window">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+      </active>
+      <inactive>
+       <colorrole role="Button">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+       <colorrole role="Base">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+       <colorrole role="Window">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+      </inactive>
+      <disabled>
+       <colorrole role="Button">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+       <colorrole role="Base">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+       <colorrole role="Window">
+        <brush brushstyle="LinearGradientPattern">
+         <gradient startx="0.537483000000000" starty="0.471000000000000" endx="0.114000000000000" endy="0.931091000000000" type="LinearGradient" spread="PadSpread" coordinatemode="ObjectBoundingMode">
+          <gradientstop position="0.000000000000000">
+           <color alpha="255">
+            <red>71</red>
+            <green>195</green>
+            <blue>231</blue>
+           </color>
+          </gradientstop>
+          <gradientstop position="1.000000000000000">
+           <color alpha="255">
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+           </color>
+          </gradientstop>
+         </gradient>
+        </brush>
+       </colorrole>
+      </disabled>
+     </palette>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>15</pointsize>
+      <weight>75</weight>
+      <italic>true</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>YAŞİN EMLAK</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>620</y>
+      <width>201</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>9</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>İLETİŞİM: 0212 689 6906</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>740</y>
+      <width>581</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>9</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>ADRES: Emlak Programı Merkezi Emlak Caddesi No: 123  Gayrimenkul Plaza, 
+Kat: 5 Levent, Beşiktaş İstanbul, Türkiye</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1247</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
